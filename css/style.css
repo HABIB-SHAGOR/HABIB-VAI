@@ -16,7 +16,7 @@ SQE - ONE PAGE TEMPLATE
     4. HEADER    
     5. CHOOSE-US
     6. ABOUT
-    7. SKILLS
+    7. SKILLs
     8. SERVICES
     9. PORTFOLIO
     10. COUNT
@@ -417,8 +417,8 @@ button:active {
 }
 
 .navbar-brand .logo {
-    width: 50%;
-    height: 50%;
+    width: 10%;
+    height: 10%;
     margin-left: 2rem;
 }
 
